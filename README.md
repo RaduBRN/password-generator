@@ -18,8 +18,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [frontendmentor]()
-- Live Site URL: [netlify]()
+- Solution URL: [frontendmentor](https://www.frontendmentor.io/solutions/responsive-password-generator-made-with-react-and-tailwind-PPcjttwjyM)
+- Live Site URL: [netlify](https://mellifluous-kitsune-0eafd0.netlify.app/)
 
 ### Built with
 
